@@ -1,8 +1,10 @@
 # Customer_Churn_Prediction
 ### Overview :
-A end to end project with EDA done on Tableau, which predicts if the Customer would Churn or not by using Xgboost ansd ANN models.
-### EDA with Tableau :
+An end-to-end project involves conducting Exploratory Data Analysis (EDA) using Tableau to analyze and visualize data. The primary goal is to predict customer churn utilizing both XGBoost and Artificial Neural Network (ANN) models.
 
+Kaggle link : https://www.kaggle.com/code/yasmineee1/customer-churn-prediction
+### EDA with Tableau :
+ ![](images/dashboard.PNG)
 ### EDA with python :
 -->Check out Customer_churn_prediction.ipynb
 ### Insights 🔮
