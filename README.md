@@ -2,7 +2,7 @@
 ### Overview :
 An end-to-end project involves conducting Exploratory Data Analysis (EDA) using Tableau to analyze and visualize data. The primary goal is to predict customer churn utilizing both XGBoost and Artificial Neural Network (ANN) models.
 
-Kaggle link : https://www.kaggle.com/code/yasmineee1/customer-churn-prediction
+Kaggle link : https://rb.gy/v19bmg
 ### EDA with Tableau :
  ![](images/dashboard.PNG)
 ### EDA with python :
@@ -17,5 +17,18 @@ Kaggle link : https://www.kaggle.com/code/yasmineee1/customer-churn-prediction
 - The senior citizen demographic exhibits a higher churn rate.
 - Emphasizing additional features like Security, Backup, Device Protection, and Tech Support reduces churn likelihood effectively.
 ### Model Training Results :
+Both models are giving very good performance and their accuracy seems to be very close to each other with ANN leading in terms of performance. Hence ANN model was used for predicting Customer Churn.
+#### - ANN :
+  
+ ![](images/cr_1.PNG) 
+ 
+ ![](images/heat_map1.PNG)
 
+#### - Xgboost :
+
+ ![](images/cr_2.PNG) 
+ 
+ ![](images/heat_map2.PNG)
+
+ 
 ### Flask App :
