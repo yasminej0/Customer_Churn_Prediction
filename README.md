@@ -24,7 +24,7 @@ Both models are giving very good performance and their accuracy seems to be very
  
  ![](images/heat_map1.PNG)
 
-#### - Xgboost :
+#### - XGBoost :
 
  ![](images/cr_2.PNG) 
  
