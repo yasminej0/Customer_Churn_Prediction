@@ -1,4 +1,4 @@
-# Customer_Churn_Prediction
+# Customer_Churn_Prediction 📈
 ### Overview :
 An end-to-end project involves conducting Exploratory Data Analysis (EDA) using Tableau to analyze and visualize data. The primary goal is to predict customer churn utilizing both XGBoost and Artificial Neural Network (ANN) models.
 
@@ -21,7 +21,7 @@ Kaggle link : https://rb.gy/v19bmg
   
 ### Model Training Results :
 
-Both models are giving very good performance and their accuracy seems to be very close to each other with ANN leading in terms of accuracy. 
+Both models are giving very good performance and their accuracy seems to be very close to each other with ANN leading in terms of performance. 
 #### - ANN :
   
  ![](images/cr_1.PNG) 
