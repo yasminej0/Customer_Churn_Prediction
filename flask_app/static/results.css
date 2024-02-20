@@ -1,0 +1,65 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+header {
+    position: absolute;
+}
+
+img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+/* Results page styles */
+.results-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.results-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.result-form {
+    border: 2px solid #3498db; /* Border for the form */
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.result-item {
+    margin: 15px 0;
+}
+
+.result-label {
+    font-weight: bold;
+}
+
+.result-value {
+    display: inline-block;
+    font-weight: bold;
+    color: #333;
+    padding: 12px 24px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    font-size: 24px;
+    border: 2px solid #3498db; /* Border around each result value */
+    margin-top: 10px; /* Spacing between result values */
+}
+
+/* Add more styles as needed */
