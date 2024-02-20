@@ -46,5 +46,5 @@ Both models are giving very good performance and their accuracy seems to be very
  
  - Prediction results :
    
- ![](images/churn_results.PNG)
+ ![](images/2.PNG)
 </details>
