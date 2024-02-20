@@ -1,8 +1,10 @@
-# Customer_Churn_Prediction 📈
+# Customer Churn Prediction 📈
 ### Overview :
 An end-to-end project involves conducting Exploratory Data Analysis (EDA) using Tableau to analyze and visualize data. The primary goal is to predict customer churn utilizing both XGBoost and Artificial Neural Network (ANN) models.
 
 Kaggle link : https://rb.gy/v19bmg
+
+Tableau link : https://public.tableau.com/app/profile/yasmine.jalil/vizzes
   ### EDA with Tableau :
 
  ![](images/dashboard.PNG)
